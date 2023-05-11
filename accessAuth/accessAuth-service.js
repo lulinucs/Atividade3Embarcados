@@ -27,7 +27,7 @@ app.get('/EnviarCredenciais', async (req, res) => {
         centro: send.centro,
         mat: send.mat
     })
-    .then((respose) => {
+    .then((response) => {
         console.log(response.data);
     })
     .catch((error) => {
