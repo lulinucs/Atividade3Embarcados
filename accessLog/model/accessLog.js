@@ -15,6 +15,11 @@ const accessLogSchema = new Schema({
   type: String, 
   required: [true, 'Matrícula obrigatória'], 
   max: 100
+ },
+ auth: {
+   type: String,
+   required: [true],
+   max: 100
  }
  });
 // Exportar o modelo

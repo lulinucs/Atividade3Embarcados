@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Lista de arquivos .js a serem executados
-arquivos_js=("accessAuth/accessAuth-service.js" "accessControl/accessControl-service.js" "accessLog/accessLog-service.js" "users/users-service.js" "labs/labs-service.js")
+arquivos_js=("APIGateway/api-gateway.js" "accessAuth/accessAuth-service.js" "accessControl/accessControl-service.js" "accessLog/accessLog-service.js" "users/users-service.js" "labs/labs-service.js")
 
 # Loop pelos arquivos da lista
 for arquivo in "${arquivos_js[@]}"

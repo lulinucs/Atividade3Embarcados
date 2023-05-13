@@ -1,4 +1,68 @@
 Servidor em execução na porta: 8086
 Conectado à base de dados ` Atividade3 `!
-Total de laboratórios na base de dados: 6
-Total de laboratórios na base de dados: 6
+{
+  nrosala: '102',
+  centro: 'CTC',
+  mat: '2222',
+  auth: 'true',
+  _id: new ObjectId("64600027a6181c903eeab066")
+}
+Log cadastrado no BD
+Total de laboratórios na base de dados: 4
+{
+  nrosala: '102',
+  centro: 'CTC',
+  mat: '1111',
+  auth: 'false',
+  _id: new ObjectId("64600031a6181c903eeab067")
+}
+Log cadastrado no BD
+Total de laboratórios na base de dados: 5
+{
+  nrosala: '101',
+  centro: 'CFH',
+  mat: '1111',
+  auth: 'true',
+  _id: new ObjectId("64600049a6181c903eeab068")
+}
+Log cadastrado no BD
+{
+  nrosala: '102',
+  centro: 'CFH',
+  mat: '1111',
+  auth: 'false',
+  _id: new ObjectId("6460004da6181c903eeab069")
+}
+Log cadastrado no BD
+{
+  nrosala: '102',
+  centro: 'CCE',
+  mat: '1111',
+  auth: 'false',
+  _id: new ObjectId("64600050a6181c903eeab06a")
+}
+Log cadastrado no BD
+{
+  nrosala: '102',
+  centro: 'CCE',
+  mat: '4444',
+  auth: 'false',
+  _id: new ObjectId("64600056a6181c903eeab06b")
+}
+Log cadastrado no BD
+{
+  nrosala: '102',
+  centro: 'CCE',
+  mat: '3333',
+  auth: 'false',
+  _id: new ObjectId("64600067a6181c903eeab06c")
+}
+{
+  nrosala: '102',
+  centro: 'CCE',
+  mat: '3333',
+  auth: 'true',
+  _id: new ObjectId("64600067a6181c903eeab06d")
+}
+Log cadastrado no BD
+Log cadastrado no BD

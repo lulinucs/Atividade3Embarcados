@@ -36,8 +36,12 @@ app.post('/SalvarLog', async (req, res) => {
     const cadastroLog = new accessLogCadastro({
         "nrosala": req.body.nrosala,
         "centro": req.body.centro,
-        "mat": req.body.mat
+        "mat": req.body.mat,
+        "auth": req.body.auth
     });
+
+    console.log(cadastroLog);
+
 
     try {
         const result = await db.insertOne(cadastroLog);

@@ -3,11 +3,6 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
-// Hello
-app.get('/hello', (req, res) => {
-    res.send('Hello World');
-});
-
 // Servidor
 const porta = 8081;
 app.listen(porta, () => {

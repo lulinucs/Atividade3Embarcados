@@ -1,0 +1,12 @@
+API Gateway iniciado!
+[0mGET /EnviarCredenciais [32m200[0m 171.152 ms - 16[0m
+[0mGET /BaixarLogs [32m200[0m 45.862 ms - 332[0m
+[0mGET /EnviarCredenciais [31m500[0m 57.159 ms - 14[0m
+[0mGET /BaixarLogs [32m200[0m 49.460 ms - 426[0m
+[0mGET /EnviarCredenciais [32m200[0m 49.835 ms - 16[0m
+[0mGET /EnviarCredenciais [31m500[0m 50.939 ms - 14[0m
+[0mGET /EnviarCredenciais [31m500[0m 47.213 ms - 14[0m
+[0mGET /EnviarCredenciais [31m500[0m 46.350 ms - 14[0m
+[0mPOST /ConcederAcesso [33m400[0m 98.542 ms - 21[0m
+[0mPOST /ConcederAcesso [32m200[0m 133.989 ms - 17[0m
+[0mGET /EnviarCredenciais [32m200[0m 56.653 ms - 16[0m
